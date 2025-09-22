@@ -52,8 +52,8 @@ Technologies used: **JavaScript**, **React**, and **CSS**.
 
 ### 🤝 Let's Connect!
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/piero-alessandro-aguilar-chavez-548616386/)
-- 📧 [Email](mailto:mariachavezm9@gmail.com)
+- 🔗 LinkedIn: https://www.linkedin.com/in/piero-alessandro-aguilar-chavez-548616386/
+- 📧 Email: mariachavezm9@gmail.com
 
 ---
 
