@@ -34,7 +34,7 @@
 
 **[ICPNA Promotional Website](https://github.com/Alessandrou27/web-publicitaria)**  
 A simple promotional website created for the *Instituto Cultural Peruano Norteamericano (ICPNA)*.  
-Technologies used: **JavaScript**, **React**, and **CSS**.
+Technologies used: **JavaScript**, **React**, **Python**, and **CSS**.
 
 **[Product Gallery - Food Store](https://github.com/Alessandrou27/GaleriaProductos)**  
 A web application for a food store, displaying a product gallery in a clean and user-friendly layout.  
